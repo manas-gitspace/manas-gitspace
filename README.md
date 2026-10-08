@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1rc-5TxjDnar71VHWIrETu8YzEqsOiR3d/view?usp=drivesdk" alt="Manas Patil - Software Developer" width="100%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1rc-5TxjDnar71VHWIrETu8YzEqsOiR3d" alt="Manas Patil - Software Developer" width="100%"/>
 </p>
 
 <p align="center">
