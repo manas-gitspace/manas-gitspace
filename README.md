@@ -35,12 +35,13 @@ education:
   score: "95.35%"
   achievement: "3rd Topper in Diploma"
 experience:
-  company: IOFT
+  company: Intern at IOFT
   role: Mobile Application Development Intern
   highlights:
-    - Built 3+ Android apps end-to-end with Java & Android Studio
+    - Built 7+ Android apps end-to-end with Java & Android Studio
     - Implemented Firebase Auth & Realtime Database across production apps
 currently:
+  Institute: "Vivekanad Education Society Institute of Technology (VESIT)"
   learning: "Advanced Android Development & AI/ML"
   building: "Civic-tech platforms with AI"
   exploring: "Full-stack web & mobile architectures"
