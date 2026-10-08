@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/manas-gitspace/manas-gitspace/main/banner.jpg" alt="Manas Patil - Software Developer" width="100%"/>
 </p>
 
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:manaspatil1845@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manas-patil-47a4a636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/manas-gitspace"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/manas-gitspace/manas-gitspace/raw/main/Manas_Patil_Resume.pdf"><img src="https://img.shields.io/badge/📄_Resume-Download-2ea44f?style=for-the-badge"/></a>
+  <a href="mailto:manaspatil1845@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manas-patil-47a4a636b?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/manas-gitspace" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Vi5PTvd_e1w-oQZkKPHpn5HQO2IFO_j4/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%F0%9F%93%84_Resume-View_in_Tab-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ```yaml
 name: Manas Patil
 role: Computer Engineering Student | Software & AI Enthusiast
-location: Mumbai, India
+location: Mumbai, India 🇮🇳
 education:
   degree: Diploma in Computer Engineering
   institution: Saraswati Institute of Technology, Kharghar
@@ -44,7 +44,7 @@ currently:
   learning: "Advanced Android Development & AI/ML"
   building: "Civic-tech platforms with AI"
   exploring: "Full-stack web & mobile architectures"
-fun_fact: "I turn coffee into code and complaints into solutions!"
+fun_fact: "I turn coffee ☕ into code and complaints into solutions!"
 ```
 
 ---
@@ -81,8 +81,8 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
 
 ### 🏛️ NagrikGPT — Civic Tech Platform
 <p>
-<a href="https://github.com/manas-gitspace/Nagrik-GPT-Client-Side-"><img src="https://img.shields.io/badge/Client_Side-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
-<a href="https://github.com/manas-gitspace/Nagrik-GPT-Gov-Side-"><img src="https://img.shields.io/badge/Gov_Side-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://github.com/manas-gitspace/Nagrik-GPT-Client-Side-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Client_Side-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://github.com/manas-gitspace/Nagrik-GPT-Gov-Side-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gov_Side-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 </p>
 
 > AI-powered platform accelerating government response to public grievances with real-time issue tracking, AI categorization & prioritization.
@@ -99,7 +99,7 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
 
 ### 📋 Work Scheduler — Memorii
 <p>
-<a href="https://github.com/manas-gitspace/Work-Scheduler-Memorii"><img src="https://img.shields.io/badge/Repo-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<a href="https://github.com/manas-gitspace/Work-Scheduler-Memorii" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
 </p>
 
 > Smart productivity app designed for users with short-term memory loss, featuring priority-based task management & persistent scheduling.
@@ -118,7 +118,7 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
 
 ### 🤖 Jarvis Frontend
 <p>
-<a href="https://github.com/manas-gitspace/jarvis-frontend"><img src="https://img.shields.io/badge/Repo-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://github.com/manas-gitspace/jarvis-frontend" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repo-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/github/stars/manas-gitspace/jarvis-frontend?style=flat-square&color=f5c542"/>
 </p>
 
@@ -156,7 +156,7 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/manas-gitspace">
+  <a href="https://github.com/manas-gitspace" target="_blank" rel="noopener noreferrer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manas-gitspace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Manas's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manas-gitspace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
   </a>
@@ -197,7 +197,15 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
 
 ## 📄 Resume
 
-> 📥 **[Click here to download my resume](https://github.com/manas-gitspace/manas-gitspace/raw/main/Manas_Patil_Resume.pdf)** — Always up to date!
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Vi5PTvd_e1w-oQZkKPHpn5HQO2IFO_j4/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Open_Resume_in_New_Tab-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Open Resume in Google Drive" />
+  </a>
+</p>
+
+<p align="center">
+  👉 <b><a href="https://drive.google.com/file/d/1Vi5PTvd_e1w-oQZkKPHpn5HQO2IFO_j4/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">Click here to view / download my Resume in Google Drive</a></b>
+</p>
 
 ---
 
@@ -217,6 +225,3 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
 </p>
-
-
-
