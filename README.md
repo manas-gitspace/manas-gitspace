@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="banner.jpg" alt="Manas Patil - Software Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/manas-gitspace/manas-gitspace/main/banner.jpg" alt="Manas Patil - Software Developer" width="100%"/>
 </p>
 
 <p align="center">
@@ -217,5 +217,6 @@ fun_fact: "I turn coffee into code and complaints into solutions!"
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Powered%20by-Coffee%20☕-brown?style=for-the-badge"/>
 </p>
+
 
 
